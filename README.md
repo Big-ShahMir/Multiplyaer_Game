@@ -80,7 +80,7 @@ stty -icanon; nc <server-ip> <port>
 Welcome to the Battle Game Server!
 Waiting for an opponent...
 
-You engage Rutwa!
+You engage Jack!
 Your hitpoints: 25
 Your powermoves: 2
 
@@ -90,7 +90,7 @@ Options:
 (p) Powermove
 
 > a
-You hit Rutwa for 4 damage!
+You hit Jack for 4 damage!
 ```
 
 ## Key Functions
