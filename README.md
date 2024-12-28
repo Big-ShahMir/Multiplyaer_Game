@@ -29,16 +29,6 @@ The **Battle Game Server** is a text-based multiplayer game server implemented i
 - Handles client disconnections gracefully by declaring the opponent the winner.
 - Supports multiple simultaneous matches.
 
----
-
-## Directory Structure
-
-```plaintext
-.
-├── battle.c        # Main server implementation in C
-├── Makefile        # Build instructions
-├── README.md       # Project documentation
-```
 
 ## Getting Started
 ### Prerequisites
